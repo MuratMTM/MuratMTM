@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MuratMTM
 - 👀 I’m interested in AI,Big Data,Machine Learning,Deep Learning,Mobile Application Development
-- 🌱 I’m currently learning Dart&Flutter,Python,Java,C#
+- 🌱 I’m currently learning Swift-SwiftUI,Dart-Flutter
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me murat.postmen@gmail.com
 
 <!---
 MuratMTM/MuratMTM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
