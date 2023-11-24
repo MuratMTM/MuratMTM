@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MuratMTM
-- 👀 I’m interested in AI,Big Data,Machine Learning,Deep Learning,Mobile Application Development
+- 👀 I’m interested in Mobile Application Development
 - 🌱 I’m currently learning Swift-SwiftUI,Dart-Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me murat.postmen@gmail.com
